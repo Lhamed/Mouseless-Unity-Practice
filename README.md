@@ -1,9 +1,8 @@
-ls
-## Mouseless Unity Practice 
+# Mouseless Unity Practice 
 ###                          by Lhamed (JYJ)
 
 ## Intro
-안녕하세요. 인생 첫 휴가를 맡은 유니티 개발자 정윤재(Lhamed)입니다. 
+안녕하세요. 인생 첫 휴가를 맞은 유니티 개발자 정윤재(Lhamed)입니다. 
 막상 회사 일이나 개발에 치이다보면 , 분명 지향하는 바가 아님에도 마치 
 분명 누가봐도 좋지는 않지만 라이브에서 잘 돌아가고 있는 hack 처럼 
 습관이 남게 됩니다. 저한테 있어서는 마우스나 트랙패들를 지나치게 사용하는 습관이
