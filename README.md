@@ -1,3 +1,4 @@
+ls
 ## Mouseless Unity Practice 
 ###                          by Lhamed (JYJ)
 
@@ -19,7 +20,7 @@
 
 ## Using
 - Macos Terminal
-- Unity 2018.3.1f
+- Unity 2018.3.2f1
 - Visual Studio Code
 > contact) Lhamed.ludologist@gmail.com
 
