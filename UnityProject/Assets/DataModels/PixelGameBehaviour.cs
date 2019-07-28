@@ -1,6 +1,11 @@
 using UnityEngine;
+using System.Collections.Generic;
+using PixelGames;
 public class PixelGameBehaviour : MonoBehaviour
 {
+    List<PgObject> ActiveObjects = new List<PgObject>();
+    List<PgObject> InactiveObjects = new List<PgObject>();
+    
     IEnumerator MainLoop()
     {
         while (true)
