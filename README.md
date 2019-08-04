@@ -23,4 +23,9 @@
 - Visual Studio Code
 > contact) Lhamed.ludologist@gmail.com
 
+## Outro
+정신 차리니 휴가가 벌써 끝났다.
+나름의 도전이기도 했고, 학습이 주 목표였으니 성공했다고 볼 수 있겠다. 
+이것 저것 나름대로 배운 것이 많으니 만족한다. 
+시간나고 생각이 나면 다시 틈틈히 해봐야겠다. 
 
